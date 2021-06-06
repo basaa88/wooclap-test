@@ -63,8 +63,8 @@ Replace <password> with the Database user’s password (dont keep the brackets)
 
 ## Usage
 
-```python
-npm run start
+```
+npm run dev
 ```
 
 ## Contributing
